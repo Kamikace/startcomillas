@@ -1,6 +1,6 @@
-# mezzanine-themes
+# Start Comillas website
 
-### Free themes for Mezzanine CMS.
+### Using Free themes for Mezzanine CMS.
 
 
 
